@@ -26,11 +26,10 @@ My Project is a Python utility for interacting with various APIs. It includes fu
 
 2. **Set up your configuration file**
 
-   - Copy `config.template.json` to `config.json`:
      ```bash
-    1. Copy `config.template.json` to `config.json`.
-    2. Edit `config.json` and add your actual API keys and other credentials.
-    3. Ensure `config.json` is not added to version control by checking that it's listed in `.gitignore`.
+    1. Copy config.template.json to config.json.
+    2. Edit config.json and add your actual API keys and other credentials.
+    3. Ensure config.json is not added to version control by checking that it's listed in .gitignore.
      ```
 
 ## Usage
