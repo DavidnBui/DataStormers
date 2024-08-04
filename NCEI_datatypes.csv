@@ -3,7 +3,7 @@ mindate,maxdate,name,datacoverage,id
 1965-01-01,2005-12-31,Average cloudiness midnight to midnight from manual observations,1,ACMH
 1994-02-01,1996-05-28,Average cloudiness sunrise to sunset from 30-second ceilometer data,1,ACSC
 1965-01-01,2005-12-31,Average cloudiness sunrise to sunset from manual observations,1,ACSH
-1991-06-05,2024-08-01,Base Data,0.95,ALL
+1991-06-05,2024-08-02,Base Data,0.95,ALL
 2010-01-01,2010-01-01,Long-term averages of annual cooling degree days with base 45F,1,ANN-CLDD-BASE45
 2010-01-01,2010-01-01,Long-term averages of annual cooling degree days with base 50F,1,ANN-CLDD-BASE50
 2010-01-01,2010-01-01,Long-term averages of annual cooling degree days with base 55F,1,ANN-CLDD-BASE55
@@ -233,17 +233,17 @@ mindate,maxdate,name,datacoverage,id
 2010-01-01,2010-01-01,probability of 28F or below at least once in the year,1,ANN-TMIN-PRBOCC-LSTH028
 2010-01-01,2010-01-01,probability of 32F or below at least once in the year,1,ANN-TMIN-PRBOCC-LSTH032
 2010-01-01,2010-01-01,probability of 36F or below at least once in the year,1,ANN-TMIN-PRBOCC-LSTH036
-1982-01-01,2024-07-30,Average wind speed,1,AWND
+1982-01-01,2024-07-31,Average wind speed,1,AWND
 1750-07-01,2024-06-01,Cooling Degree Days Season to Date,1,CDSD
 1750-02-01,2024-06-01,Cooling Degree Days,1,CLDD
-2011-03-08,2024-07-30,Digital Accumulation Array(One Hour Precipitation total (256 levels) with Dual Pol. algorithm),0.95,DAA
+2011-03-08,2024-07-31,Digital Accumulation Array(One Hour Precipitation total (256 levels) with Dual Pol. algorithm),0.95,DAA
 1948-08-02,2012-07-23,Number of days included in the multiday evaporation total (MDEV),1,DAEV
-1750-02-01,2024-07-31,Number of days included in the multiday precipitation total (MDPR),1,DAPR
+1750-02-01,2024-08-01,Number of days included in the multiday precipitation total (MDPR),1,DAPR
 1877-01-02,2022-11-20,Number of days included in the multiday snow fall total (MDSF) ,1,DASF
 1750-02-01,2023-12-31,Number of days included in the multiday minimum temperature (MDTN),1,DATN
 1750-02-01,2023-12-31,Number of days included in the multiday maximum temperature (MDTX),1,DATX
 1935-09-23,2010-06-21,Number of days included in the multiday wind movement (MDWM),1,DAWM
-1994-05-20,2024-07-30,Digital Hybrid Scan Reflectivity,0.95,DHR
+1994-05-20,2024-07-31,Digital Hybrid Scan Reflectivity,0.95,DHR
 2010-01-01,2010-01-01,Long-term averages of winter cooling degree days with base 45F,1,DJF-CLDD-BASE45
 2010-01-01,2010-01-01,Long-term averages of winter cooling degree days with base 50F,1,DJF-CLDD-BASE50
 2010-01-01,2010-01-01,Long-term averages of winter cooling degree days with base 55F,1,DJF-CLDD-BASE55
@@ -361,25 +361,25 @@ mindate,maxdate,name,datacoverage,id
 2010-01-01,2010-12-31,Long-term standard deviations of daily maximum temperature,1,DLY-TMAX-STDDEV
 2010-01-01,2010-12-31,Long-term averages of daily minimum temperature,1,DLY-TMIN-NORMAL
 2010-01-01,2010-12-31,Long-term standard deviations of daily minimum temperature,1,DLY-TMIN-STDDEV
-2011-03-08,2024-07-30,One Hour Precipitation Difference = DAA-N1P,0.95,DOD
+2011-03-08,2024-07-31,One Hour Precipitation Difference = DAA-N1P,0.95,DOD
 1750-02-01,2024-06-01,Number of days with greater than or equal to 0.1 inch of precipitation,1,DP01
 1781-01-01,2016-03-01,Number of days with greater than or equal to 0.5 inch of precipitation,1,DP05
 1750-02-01,2024-06-01,Number of days with greater than or equal to 1.0 inch of precipitation,1,DP10
-1994-06-17,2024-07-30,Digital Precipitation Array,0.95,DPA
+1994-06-17,2024-07-31,Digital Precipitation Array,0.95,DPA
 1888-12-01,2015-11-01,Departure from normal monthly precipitation.,1,DPNP
 1888-06-01,2015-11-01,Departure from normal monthly temperature.,1,DPNT
-2011-03-08,2024-07-30,Instantaneous Precipitation Rate,0.95,DPR
-2011-03-08,2024-07-30,Storm Total Precipitation Difference = DTA-DSP,0.95,DSD
+2011-03-08,2024-07-31,Instantaneous Precipitation Rate,0.95,DPR
+2011-03-08,2024-07-31,Storm Total Precipitation Difference = DTA-DSP,0.95,DSD
 1863-12-01,2024-06-01,Number days with snow depth > 1 inch(25.4mm) for the period.,1,DSND
 1840-05-01,2024-06-01,Number days with snow depth > 1 inch.,1,DSNW
-1994-06-17,2024-07-30,Digital Storm Total Precipitation,0.95,DSP
+1994-06-17,2024-07-31,Digital Storm Total Precipitation,0.95,DSP
 1750-02-01,2024-06-01,Number days with minimum temperature less than or equal to 0.0 F,1,DT00
 1750-02-01,2024-06-01,Number days with minimum temperature less than or equal to 32.0 F,1,DT32
 1942-01-01,1981-12-01,Number days with minimum temperature < 59 F. (Puerto Rico and Virgin Islands only.),1,DT60
 1922-01-01,2015-11-01,Number days with maximum temperature > 70 F. (Alaska only.),1,DT70
 1763-01-01,2016-03-01,Number days with maximum temperature greater than or equal 90.0 F,1,DT90
-2011-03-08,2024-07-30,Digital Storm Total Accumulation(Storm Total Precipitation total (256 levels) with Dual Pol. algorithm),0.95,DTA
-1994-05-20,2024-07-30,Digital Vertical Integrated Liquid,0.95,DVL
+2011-03-08,2024-07-31,Digital Storm Total Accumulation(Storm Total Precipitation total (256 levels) with Dual Pol. algorithm),0.95,DTA
+1994-05-20,2024-07-31,Digital Vertical Integrated Liquid,0.95,DVL
 1750-02-01,2023-12-31,Number of days with non-zero precipitation included in multiday precipitation total (MDPR),1,DWPR
 1750-02-01,2024-06-01,Number days with maximum temperature < 32 F.,1,DX32
 1942-01-01,1981-12-01,Number days with maximum temperature < 59 F. (Puerto Rico and Virgin Islands only.),1,DX60
@@ -390,7 +390,7 @@ mindate,maxdate,name,datacoverage,id
 1840-05-01,2024-06-01,Day the extreme maximum daily snowfall for the period occurred.,1,DYSN
 1750-02-01,2024-06-01,Day Extreme maximum daily precipitation for the period.,1,DYXP
 1750-02-01,2024-06-01,Date Extreme maximum temperature occurred for the period.,1,DYXT
-1994-05-20,2024-07-30,Enhanced Echo Tops,0.95,EET
+1994-05-20,2024-07-31,Enhanced Echo Tops,0.95,EET
 1750-02-01,2024-06-01,Extreme minimum temperature for the period.,1,EMNT
 1863-12-01,2024-06-01,Extreme maximum snow depth for the period.,1,EMSD
 1840-05-01,2024-06-01,Extreme maximum snowfall for the period.,1,EMSN
@@ -401,7 +401,7 @@ mindate,maxdate,name,datacoverage,id
 1946-10-29,1964-12-31,Base of frozen ground layer,1,FRGB
 1946-10-29,1964-12-31,Top of frozen ground layer,1,FRGT
 1948-01-01,1964-12-31,Thickness of frozen ground layer,1,FRTH
-1994-05-20,2024-07-30,Free Text Message,0.95,FTM
+1994-05-20,2024-07-31,Free Text Message,0.95,FTM
 1763-01-01,2023-01-01,First freeze <= to 32F/0C of the year.,1,FZF0
 1765-01-01,2023-01-01,First freeze <= 28F/-2.2C of the year,1,FZF1
 1767-01-01,2023-01-01,First freeze <= 24F/-4.4C of the year,1,FZF2
@@ -413,9 +413,9 @@ mindate,maxdate,name,datacoverage,id
 1766-01-01,2023-01-01,Last freeze <= 20F/-6.7C of the year,1,FZF8
 1767-01-01,2023-01-01,Last freeze <= 16F/-8.9C of the year,1,FZF9
 1913-07-25,1964-12-31,Difference between river and gauge height,1,GAHT
-1994-05-20,2024-07-30,General Status Message,0.95,GSM
+1994-05-20,2024-07-31,General Status Message,0.95,GSM
 1763-07-01,2024-06-01,Heating Degree Days Season to Date,1,HDSD
-2011-03-08,2024-07-30,Hybrid Hydrometeor Classification,0.95,HHC
+2011-03-08,2024-07-31,Hybrid Hydrometeor Classification,0.95,HHC
 2010-01-01,2010-12-31,Cooling degree hours,1,HLY-CLDH-NORMAL
 2010-01-01,2010-12-31,Clouds broken percentage,1,HLY-CLOD-PCTBKN
 2010-01-01,2010-12-31,Clouds clear percentage,1,HLY-CLOD-PCTCLR
@@ -583,7 +583,7 @@ mindate,maxdate,name,datacoverage,id
 1989-03-01,1990-10-01,Highest soil temperature at observation time(cover: bare muck,0.998,HO85A0
 1984-01-01,1988-12-01,Highest soil temperature at observation time(cover: bare muck,0.9996,HO85A3
 1750-02-01,2024-11-14,Precipitation,1,HPCP
-1840-10-24,2024-07-29,Highest snowfall,,HSNW
+1840-10-24,2024-07-31,Highest snowfall,,HSNW
 1750-02-01,2024-06-01,Heating degree days,1,HTDD
 1750-02-01,2024-11-14,Highest minimum temperature,,HTMN
 1750-02-01,2024-11-14,Highest maximum temperature,,HTMX
@@ -982,7 +982,7 @@ mindate,maxdate,name,datacoverage,id
 2010-01-01,2010-01-01,Long-term average number of days per spring where tmin is less than or equal to 70F,1,MAM-TMIN-AVGNDS-LSTH070
 2010-01-01,2010-01-01,Long-term averages of spring minimum temperature,1,MAM-TMIN-NORMAL
 1948-08-02,2010-08-16,Multiday evaporation total (use with DAEV),1,MDEV
-1750-02-01,2024-07-31,"Multiday precipitation total (use with DAPR and DWPR, if available)",1,MDPR
+1750-02-01,2024-08-01,"Multiday precipitation total (use with DAPR and DWPR, if available)",1,MDPR
 1859-12-29,2022-11-20,Multiday snowfall total ,1,MDSF
 1750-02-01,2023-12-31,Multiday minimum temperature (use with DATN),1,MDTN
 1750-02-01,2023-12-31,Multiday maximum temperature (use with DATX),1,MDTX
