@@ -1,0 +1,41 @@
+[33mcommit d67e4f6a5bc8532a3217b4418477e9a26dbd8474[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAndrew[m[33m, [m[1;31morigin/manahil[m[33m, [m[1;31morigin/Andrew[m[33m, [m[1;32mJeff[m[33m)[m
+Author: jhammans <hef1125@hotmail.com>
+Date:   Sat Aug 3 18:09:20 2024 -0700
+
+    Fixed geojson csv file
+
+[33mcommit 60adbfbfe03ebea4ca6f8119f884194fb87a9c27[m
+Author: jhammans <hef1125@hotmail.com>
+Date:   Sat Aug 3 17:59:26 2024 -0700
+
+    Found weather data and created initial map
+
+[33mcommit 178361831b2f19e6db1356f8f045002f08b526eb[m
+Author: jhammans <hef1125@hotmail.com>
+Date:   Thu Aug 1 22:09:17 2024 -0700
+
+    Updated notebook to include data endpoint
+
+[33mcommit dea5e955e57315dab4455230b844ab7dab28b31c[m
+Author: jhammans <hef1125@hotmail.com>
+Date:   Thu Aug 1 21:44:10 2024 -0700
+
+    Created csv_writer function. Jupyter notebook retrieves NCEI data
+
+[33mcommit d406cbc309b89852d20bb9c60dc91a663e7b40ba[m
+Author: jhammans <hef1125@hotmail.com>
+Date:   Wed Jul 31 20:19:59 2024 -0700
+
+    Fixed README formatting
+
+[33mcommit bcbe2ebb40bbdefd865c903f0a17c1bb304524a1[m
+Author: jhammans <hef1125@hotmail.com>
+Date:   Wed Jul 31 20:15:18 2024 -0700
+
+    Created Api client and json loader utilities. Updated README
+
+[33mcommit 3ac4f591b58beb7745e5752fe9c795ce19bf8e8e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: DavidnBui <74518412+DavidnBui@users.noreply.github.com>
+Date:   Tue Jul 30 19:13:54 2024 -0400
+
+    Initial commit
