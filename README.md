@@ -72,6 +72,14 @@ To deploy this project
   3. Ensure `config.json` is not added to version control by checking that it's listed in `.gitignore`.
   ```
 
+4. **Run the Jupyter Notebook**
+
+```bash
+jupyter notebook tornado_notebook.ipynb
+```
+- This will open the notebook in your default web browser.
+- Follow the instructions within the notebook to perform the analysis.
+
 ## Usage
 
 To use the utilities in this project, you can run the `main.py` script or import functions from the `utils` package in your own scripts.
