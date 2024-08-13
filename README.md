@@ -5,26 +5,26 @@ This project explores the impact of major storms, particularly tornadoes, on the
 
 ## Visualizations:
 This project includes several key visualizations to illustrate the impact of storms on the housing market:
-**Heatmap of Tornado Activity:** Highlights the geographic distribution of tornadoes across the U.S
-**Tornado Frequency Bar Chart:** Shows the number of tornadoes by state.
-**Trend of Disaster Declarations Over Time:** Displays the increase in disaster declarations over the years.
-**Pie Chart - Distribution of Housing Assistance Funds:** Breaks down the types of housing assistance provided.
-**Bar Chart - Total Housing Damage by State:** Illustrates the reported housing damage across states.
+- **Heatmap of Tornado Activity:** Highlights the geographic distribution of tornadoes across the U.S
+- **Tornado Frequency Bar Chart:** Shows the number of tornadoes by state.
+- **Trend of Disaster Declarations Over Time:** Displays the increase in disaster declarations over the years.
+- **Pie Chart - Distribution of Housing Assistance Funds:** Breaks down the types of housing assistance provided.
+- **Bar Chart - Total Housing Damage by State:** Illustrates the reported housing damage across states.
 Each visualization was created using Python libraries such as Matplotlib, Seaborn, Folium, and Pandas.
 
 ## Analysis and Findings:
 The analysis revealed several important findings:
-**Increasing Disaster Declarations:** There is a clear upward trend in disaster declarations over time, indicating that storms are having a growing impact on communities.
-**Geographic Concentration of Tornadoes:** Tornadoes are most frequent in Tornado Alley, affecting states like Oklahoma, Texas, and Kansas the most.
-**Housing Assistance Distribution:** The majority of housing assistance funds are allocated to repair and replace housing, which is crucial for disaster recovery.
-**State-Level Damage:** Ohio and Oklahoma report the highest total housing damage, suggesting that storm severity and housing density significantly influence the level of damage.
+- **Increasing Disaster Declarations:** There is a clear upward trend in disaster declarations over time, indicating that storms are having a growing impact on communities.
+- **Geographic Concentration of Tornadoes:** Tornadoes are most frequent in Tornado Alley, affecting states like Oklahoma, Texas, and Kansas the most.
+- **Housing Assistance Distribution:** The majority of housing assistance funds are allocated to repair and replace housing, which is crucial for disaster recovery.
+- **State-Level Damage:** Ohio and Oklahoma report the highest total housing damage, suggesting that storm severity and housing density significantly influence the level of damage.
 
 ## Data Sources:
 The project uses multiple datasets to conduct a thorough analysis:
-**FEMA Disaster Declarations:** Contains data on federal disaster declarations, including the type of disaster, location, and date.
-**NOAA Tornado Data:** Provides detailed information on tornado occurrences, including location, intensity, and damage reports.
-**Housing Assistance Data:** Includes data on federal assistance provided for housing repairs, replacements, and other needs following a disaster.
-**U.S. Census Data:** Offers demographic and economic data, such as median income, to contextualize the impact of storms on different communities.
+- **FEMA Disaster Declarations:** Contains data on federal disaster declarations, including the type of disaster, location, and date.
+- **NOAA Tornado Data:** Provides detailed information on tornado occurrences, including location, intensity, and damage reports.
+- **Housing Assistance Data:** Includes data on federal assistance provided for housing repairs, replacements, and other needs following a disaster.
+- **U.S. Census Data:** Offers demographic and economic data, such as median income, to contextualize the impact of storms on different communities.
 
 ## Project Structure:
 The repository is organized as follows:
