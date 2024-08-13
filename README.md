@@ -108,8 +108,8 @@ print(data)
 
 ## Contributors
 
-Andrew (Data Visualization)
-Manahil (Data Visualization)
-Deelan (Data Analysis / Storytelling)
-Jeff (API Data)
-David (Data Cleaning)
+- Andrew (Data Visualization)
+- Manahil (Data Visualization)
+- Deelan (Data Analysis / Storytelling)
+- Jeff (API Data)
+- David (Data Cleaning)
